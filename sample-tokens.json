@@ -16,7 +16,7 @@
     },
     "primary": {
       "$type": "color",
-      "$value": "#ff0004",
+      "$value": "#8fd6c9",
       "$description": "Primary brand color"
     },
     "success": {
